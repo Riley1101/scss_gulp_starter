@@ -1,0 +1,1298 @@
+repo_name: Riley1101/scss_gulp_starter
+report_id: 9c6bdecbe7289f8e7fbafe68f0ccb08e
+repo_type: Public
+timestamp: '2023-11-11T17:18:52+00:00'
+requested_by: Riley1101
+provider: github
+branch: starter
+detected_tools_count: 91
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 5.5.12
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: Socket.IO
+  description: Realtime application framework (Node.JS server)
+  website_url: http://socket.io/
+  version: 2.4.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: Segment
+  description: A single hub to collect, translate and send your data with the flip
+    of a switch.
+  website_url: https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics
+  open_source: false
+  hosted_saas: true
+  category: Analytics
+  sub_category: Analytics Integrator
+  image_url: https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: Immutable.js
+  description: Immutable persistent data collections for Javascript which increase
+    efficiency and simplicity, by Facebook
+  website_url: http://facebook.github.io/immutable-js/
+  version: 3.8.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.21.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: accepts
+  description: Higher-level content negotiation
+  package_url: https://www.npmjs.com/accepts
+  version: 1.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17723/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: after
+  description: After - tiny flow control
+  package_url: https://www.npmjs.com/after
+  version: 0.8.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17934/default_c741d08ac1035482640dcd4a57c59231d0ce4858.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: ansi-regex
+  description: Regular expression for matching ANSI escape codes
+  package_url: https://www.npmjs.com/ansi-regex
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17917/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: ansi-styles
+  description: ANSI escape codes for styling strings in the terminal
+  package_url: https://www.npmjs.com/ansi-styles
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17247/default_548b30201f78497e75a25eec5123ef18df71e69d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: anymatch
+  description: Matches strings against configurable strings
+  package_url: https://www.npmjs.com/anymatch
+  version: 3.1.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18287/default_2b4f164959c4edb71332bbb8bb8be1f545c646f8.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: async
+  description: Higher-order functions and common patterns for asynchronous code
+  package_url: https://www.npmjs.com/async
+  version: 1.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: balanced-match
+  description: Match balanced character pairs, like "{" and "}"
+  package_url: https://www.npmjs.com/balanced-match
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18395/default_dc6769b9772560ba4cb2cd0455560c2922e23c92.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: brace-expansion
+  description: Brace expansion as known from sh/bash
+  package_url: https://www.npmjs.com/brace-expansion
+  version: 1.1.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18603/default_3694958065f9a898b45cef06d5c531dfb4be172f.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: browser-sync
+  description: Live CSS Reload &amp; Browser Syncing
+  package_url: https://www.npmjs.com/browser-sync
+  version: 2.27.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: bytes
+  description: Utility to parse a string bytes to bytes and vice-versa
+  package_url: https://www.npmjs.com/bytes
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17201/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: camelcase
+  description: 'Convert a dash/dot/underscore/space separated string to camelCase
+    or PascalCase: `foo-bar` → `fooBar`'
+  package_url: https://www.npmjs.com/camelcase
+  version: 5.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16559/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: chokidar
+  description: A neat wrapper around node.js fs.watch / fs.watchFile / fsevents
+  package_url: https://www.npmjs.com/chokidar
+  version: 3.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16043/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: cliui
+  description: Easily create complex multi-column command-line-interfaces
+  package_url: https://www.npmjs.com/cliui
+  version: 6.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18681/default_c2fd624f1a31b18e34c502c498361d8303eccc88.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: color-convert
+  description: Plain color conversion functions
+  package_url: https://www.npmjs.com/color-convert
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18119/image.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  version: 2.20.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: component-emitter
+  description: Event emitter
+  package_url: https://www.npmjs.com/component-emitter
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17572/default_4627bd50a25f9a490243683fabcc5c97d552aa2a.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: connect
+  description: High performance middleware framework
+  package_url: https://www.npmjs.com/connect
+  version: 3.6.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16202/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: connect-history-api-fallback
+  description: Provides a fallback for non-existing directories so that the HTML 5
+    history API can be used
+  package_url: https://www.npmjs.com/connect-history-api-fallback
+  version: 1.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16214/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: cookie
+  description: HTTP server cookie parsing and serialization
+  package_url: https://www.npmjs.com/cookie
+  version: 0.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16660/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 2.6.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: decamelize
+  description: 'Convert a camelized string into a lowercased one with a custom separator:
+    unicornRainbow → unicorn_rainbow'
+  package_url: https://www.npmjs.com/decamelize
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17811/default_a5001d58dc2685d7e854c9bb8b83b74bce875e37.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: depd
+  description: Deprecate all the things
+  package_url: https://www.npmjs.com/depd
+  version: 1.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17670/default_4ba4cce198b4498f328ca26971f69b03cf49892a.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: escape-html
+  description: Escape string for use in HTML
+  package_url: https://www.npmjs.com/escape-html
+  version: 1.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17037/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: escape-string-regexp
+  description: Escape RegExp special characters
+  package_url: https://www.npmjs.com/escape-string-regexp
+  version: 1.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16736/default_cc1793e454d6d035c188f0198b037d58f372e7f2.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: etag
+  description: Create simple HTTP ETags
+  package_url: https://www.npmjs.com/etag
+  version: 1.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17743/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: eventemitter3
+  description: EventEmitter3 focuses on performance while maintaining a Node.js AND
+    browser compatible interface
+  package_url: https://www.npmjs.com/eventemitter3
+  version: 4.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16574/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: finalhandler
+  description: Node.js final http responder
+  package_url: https://www.npmjs.com/finalhandler
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17238/default_747c790463912ea0e3a85597146d9c13d6a53db9.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: find-up
+  description: Find a file or directory by walking up parent directories
+  package_url: https://www.npmjs.com/find-up
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17030/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: follow-redirects
+  description: HTTP and HTTPS modules that follow redirects
+  package_url: https://www.npmjs.com/follow-redirects
+  version: 1.14.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17687/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+  vulnerabilities:
+  - name: Exposure of sensitive information in follow-redirects
+    cve_id: CVE-2022-0155
+    cve_url: https://github.com/advisories/GHSA-74fj-2j2h-c42q
+    detected_date: Jan 18
+    severity: high
+    first_patched: 1.14.7
+  - name: Exposure of Sensitive Information to an Unauthorized Actor in follow-redirects
+    cve_id: CVE-2022-0536
+    cve_url: https://github.com/advisories/GHSA-pw2r-vq6v-hr8c
+    detected_date: Feb 12
+    severity: moderate
+    first_patched: 1.14.8
+- name: fresh
+  description: HTTP response freshness testing
+  package_url: https://www.npmjs.com/fresh
+  version: 0.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18037/default_d8756eea8d13a271fb42437ffb36c0a116d72925.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: graceful-fs
+  description: A drop-in replacement for fs, making various improvements
+  package_url: https://www.npmjs.com/graceful-fs
+  version: 4.2.8
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16375/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: gulp-sass
+  description: Gulp plugin for sass
+  package_url: https://www.npmjs.com/gulp-sass
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16002/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: http-errors
+  description: Create HTTP error objects
+  package_url: https://www.npmjs.com/http-errors
+  version: 1.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16925/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: http-proxy
+  description: HTTP proxying for the masses
+  package_url: https://www.npmjs.com/http-proxy
+  version: 1.18.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: iconv-lite
+  description: Convert character encodings in pure javascript
+  package_url: https://www.npmjs.com/iconv-lite
+  version: 0.4.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16350/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: immutable
+  description: Immutable Data Collections
+  package_url: https://www.npmjs.com/immutable
+  version: 3.8.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16070/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: inherits
+  description: Browser-friendly inheritance fully compatible with standard node.js
+    inherits
+  package_url: https://www.npmjs.com/inherits
+  version: 2.0.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16376/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: is-glob
+  description: Returns `true` if the given string looks like a glob pattern or an
+    extglob pattern
+  package_url: https://www.npmjs.com/is-glob
+  version: 4.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18446/default_ce264c1dd64cc60a7887273861f96d765d5ebde0.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: is-wsl
+  description: Check if the process is running inside Windows Subsystem for Linux
+  package_url: https://www.npmjs.com/is-wsl
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17097/default_faf55ef1f2892d4dcce54ed77892756797ff34e1.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: isarray
+  description: Array#isArray for older browsers
+  package_url: https://www.npmjs.com/isarray
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17568/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: jsonfile
+  description: Easily read/write JSON files
+  package_url: https://www.npmjs.com/jsonfile
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16381/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: micromatch
+  description: Glob matching for javascript/node.js
+  package_url: https://www.npmjs.com/micromatch
+  version: 4.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17143/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: mime
+  description: A comprehensive library for mime-type mapping
+  package_url: https://www.npmjs.com/mime
+  version: 1.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16182/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: mime-db
+  description: Media Type Database
+  package_url: https://www.npmjs.com/mime-db
+  version: 1.50.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18701/default_803d9095ae52cd39a90bd905df9c2e4583f75904.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: mime-types
+  description: The ultimate javascript content-type utility
+  package_url: https://www.npmjs.com/mime-types
+  version: 2.1.33
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16448/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: minimatch
+  description: A glob matcher in javascript
+  package_url: https://www.npmjs.com/minimatch
+  version: 3.0.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+  vulnerabilities:
+  - name: minimatch ReDoS vulnerability
+    cve_id: CVE-2022-3517
+    cve_url: https://github.com/advisories/GHSA-f8q6-p94x-37v3
+    detected_date: Oct 21
+    severity: high
+    first_patched: 3.0.5
+- name: mitt
+  description: Tiny 200b functional Event Emitter / pubsub
+  package_url: https://www.npmjs.com/mitt
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18719/default_88ba18730de3c1cd8c358a23343f72c83971e808.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: ms
+  description: Tiny millisecond conversion utility
+  package_url: https://www.npmjs.com/ms
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: normalize-path
+  description: Normalize slashes in a file path to be posix/unix-like forward slashes
+  package_url: https://www.npmjs.com/normalize-path
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18102/image.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: on-finished
+  description: Execute a callback when a request closes
+  package_url: https://www.npmjs.com/on-finished
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17498/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: opn
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/opn
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16099/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: p-limit
+  description: Run multiple promise-returning &amp; async functions with limited concurrency
+  package_url: https://www.npmjs.com/p-limit
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18388/default_404701144cd8e1becf3aec789202840caee4d78e.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: parseurl
+  description: Parse a url with memoization
+  package_url: https://www.npmjs.com/parseurl
+  version: 1.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17347/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: path-exists
+  description: Check if a path exists
+  package_url: https://www.npmjs.com/path-exists
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16765/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: portscanner
+  description: Asynchronous port scanner for Node.js
+  package_url: https://www.npmjs.com/portscanner
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18182/default_2f5942d1b3e49e74ff0440e15198df1d91e6ad96.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: qs
+  description: A querystring parser that supports nesting and arrays
+  package_url: https://www.npmjs.com/qs
+  version: 6.2.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16125/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 6.2.4
+- name: range-parser
+  description: Range header field string parser
+  package_url: https://www.npmjs.com/range-parser
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18315/default_f1e168ebe0f124084b9a0acbe78bc5cdba7b4575.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: raw-body
+  description: Get and validate the raw body of a readable stream
+  package_url: https://www.npmjs.com/raw-body
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17336/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: readdirp
+  description: Recursive version of fs.readdir with streaming API
+  package_url: https://www.npmjs.com/readdirp
+  version: 3.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17897/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: require-directory
+  description: Recursively iterates over specified directory
+  package_url: https://www.npmjs.com/require-directory
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17939/default_ddcb3fb8ca8ccaba871e88d87465cd31ce73df71.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: rx
+  description: Library for composing asynchronous and event-based operations in JavaScript
+  package_url: https://www.npmjs.com/rx
+  version: 4.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16783/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: sass
+  description: A pure JavaScript implementation of Sass
+  package_url: https://www.npmjs.com/sass
+  version: 1.43.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: send
+  description: Better streaming static file server with Range and conditional-GET
+    support
+  package_url: https://www.npmjs.com/send
+  version: 0.16.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17093/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: serve-index
+  description: Serve directory listings
+  package_url: https://www.npmjs.com/serve-index
+  version: 1.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17299/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: serve-static
+  description: Serve static files
+  package_url: https://www.npmjs.com/serve-static
+  version: 1.13.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16295/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: server-destroy
+  description: Enable destroying a server
+  package_url: https://www.npmjs.com/server-destroy
+  version: 1.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17834/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: socket.io-client
+  description: "[![Build Status]"
+  package_url: https://www.npmjs.com/socket.io-client
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16164/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: statuses
+  description: HTTP status utility
+  package_url: https://www.npmjs.com/statuses
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18232/default_006273ebad013729e0798e0376579caca9efaa4e.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: string-width
+  description: Get the visual width of a string - the number of columns required to
+    display it
+  package_url: https://www.npmjs.com/string-width
+  version: 4.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17879/default_369b3bf3ef062123a581e4817f09cb0004de7ff6.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: strip-ansi
+  description: Strip ANSI escape codes from a string
+  package_url: https://www.npmjs.com/strip-ansi
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16331/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: supports-color
+  description: Detect whether a terminal supports color
+  package_url: https://www.npmjs.com/supports-color
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17084/default_23002b02644a8cb313a0f53f43df271731022a9e.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: symbol-observable
+  description: Symbol.observable ponyfill
+  package_url: https://www.npmjs.com/symbol-observable
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18545/default_0e8c62fd0420ce3873a7b150d09fb9d1094266c0.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: ua-parser-js
+  description: Lightweight JavaScript-based user-agent string parser
+  package_url: https://www.npmjs.com/ua-parser-js
+  version: 0.7.28
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17510/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+  vulnerabilities:
+  - name: ReDoS Vulnerability in ua-parser-js version
+    cve_id: CVE-2022-25927
+    cve_url: https://github.com/advisories/GHSA-fhg7-m89q-25r3
+    detected_date: Jan 25
+    severity: high
+    first_patched: 0.7.33
+- name: utils-merge
+  description: Merge
+  package_url: https://www.npmjs.com/utils-merge
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17738/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: wrap-ansi
+  description: Wordwrap a string with ANSI escape codes
+  package_url: https://www.npmjs.com/wrap-ansi
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18583/default_8f927dfbacb5114543043eda4a41364f4f47ff2c.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 15.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
+- name: yargs-parser
+  description: The mighty option parser used by yargs
+  package_url: https://www.npmjs.com/yargs-parser
+  version: 18.1.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17207/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Arkar Kaung Myat
+  last_updated_on: 2021-11-05 14:59:49.000000000 Z
